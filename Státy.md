@@ -20,3 +20,4 @@
 | Finnish               | —                                  | **Suomi**                          | Monarchy / Republic          |     |
 | Mushroomfolk          | Eladrin                            | **Funvale**                        | Statism                      |     |
 
+#stát

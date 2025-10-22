@@ -28,3 +28,5 @@ Ostrov, kde experimenty vznikly, se stal neobyvatelným.
 Zvířata i rostliny zmutovaly, magie se zvrhla a samotný vzduch se stal nebezpečným.
 Přeživší z Pangei se sjednotili, ale technologie i znalosti byly ztraceny.
 Zbyla jen víra, že Temný kontinent je prokletý pozůstatek dávné pýchy.
+
+#stát 
